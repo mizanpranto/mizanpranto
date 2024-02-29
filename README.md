@@ -1,5 +1,6 @@
 # Hello, I'm Mizanur Rahman Pranto
 <a href="https://www.linkedin.com/in/mrpranto1997/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 
 
