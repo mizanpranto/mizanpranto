@@ -30,7 +30,16 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/-Nmap-4B8BBE?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-2C3038?&style=for-the-badge&logo=hydra&logoColor=white " />
+      <img src="https://img.shields.io/badge/-Burp%20Suite-DD2200?&style=for-the-badge&logo=burpsuite&logoColor=white " />
+      <img src="https://img.shields.io/badge/-Metasploit-ED1C24?&style=for-the-badge&logo=metasploit&logoColor=white " />
+      <img src="https://img.shields.io/badge/-Nessus-0484d8?&style=for-the-badge&logo=nessus&logoColor=white " />
+      <img src=" https://img.shields.io/badge/-OpenVAS-007B74?&style=for-the-badge&logo=openvas&logoColor=white" />
+      <img src=" https://img.shields.io/badge/-Google%20Dorking-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+      <img src=" https://img.shields.io/badge/-Shodan-1ABC9C?&style=for-the-badge&logo=shodan&logoColor=white" />
+      <img src=" https://img.shields.io/badge/-OSNIT-FF5733?&style=for-the-badge" />
+     
 </div>
 
 
