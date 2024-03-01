@@ -44,7 +44,7 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 
 ## Information gathering [Tools & Details]
 
-( Check the links for details. )
+( Check the links for details, continuously uploading )
 <div>
 <a href="https://github.com/mizanpranto/DNS-Enumration"><img src="https://img.shields.io/badge/-DNS%20Enumeration-007BFF?&style=for-the-badge" /></a>
 <a href="https://github.com/mizanpranto/Search-Engine"><img src="https://img.shields.io/badge/-Search%20Engines-4285F4?&style=for-the-badge" /></a>
