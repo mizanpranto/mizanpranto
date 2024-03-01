@@ -16,7 +16,8 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 
 | Skills                                         | Associated With         |
 |-----------------------------------------------|----------------------------|
-| Cyber Security         | <a href="https://google.com">Course </a>|
+| Cyber Security 
+ethical hacking | <a href="https://google.com">Course </a>|
 | Network Analysis | <a href="https://google.com">Course</a>|
 | Ethical Hacking         | Course|
 | Penetration Testing      | Course|
