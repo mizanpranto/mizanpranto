@@ -75,6 +75,7 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
       <a href="https://medium.com/@mprantox41/tryhackeme-metasploit-introduction-4083e3c42b9c"><img src="https://img.shields.io/badge/-TryHackMe%20%E2%80%94%20Metasploit%20Walkthrough-3498DB?&style=for-the-badge" /></a>
        <a href="https://medium.com/@mprantox41/linux-networking-commands-619b81da7d77"><img src="https://img.shields.io/badge/-Linux%20Networking%20Commands-61DAFB?&style=for-the-badge" /></a>
         <a href="https://medium.com/@mprantox41/sublist3r-install-and-c960b7a41536"><img src="https://img.shields.io/badge/-Sublist3r-3498DB?&style=for-the-badge" /></a>
+         <a href="https://medium.com/@mprantox41/google-dork-8337161ec42b"><img src="https://img.shields.io/badge/-Google%20Dork-4285F4?&style=for-the-badge" /></a>
         
          
           
