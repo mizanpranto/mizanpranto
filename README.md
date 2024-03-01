@@ -63,20 +63,20 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 
 
 
-## TryHackMe Solve
+## WriteUp
 
 
 
 <div>
 
-   <a href="https://medium.com/@mprantox41/tryhackme-hydra-walkthrough-d1568ae6be37"><img src="https://img.shields.io/badge/-TryHackMe%20Hydra%20Writeup-3498DB?&style=for-the-badge" /></a>
-    <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-     <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-      <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-       <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-        <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-         <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-          <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+   <a href="https://medium.com/@mprantox41/tryhackme-hydra-walkthrough-d1568ae6be37"><img src="https://img.shields.io/badge/-TryHackMe%20%E2%80%94%20Hydra%20Walkthrough-3498DB?&style=for-the-badge" /></a>
+    <a href="https://medium.com/@mprantox41/tryhackme-iso27001-walkthrough-7bc6c83fd672"><img src="https://img.shields.io/badge/-TryHackMe%20%E2%80%94%20ISO27001%20Walkthrough-3498DB?&style=for-the-badge" /></a>
+     <a href="https://medium.com/@mprantox41/try-hack-me-openvas-walkthrough-db0172cfcda5"><img src="https://img.shields.io/badge/-TryHackMe%20%E2%80%94%20OpenVAS%20Walkthrough-3498DB?&style=for-the-badge" /></a>
+      <a href="https://medium.com/@mprantox41/tryhackeme-metasploit-introduction-4083e3c42b9c"><img src="https://img.shields.io/badge/-TryHackMe%20%E2%80%94%20Metasploit%20Walkthrough-3498DB?&style=for-the-badge" /></a>
+       <a href="https://medium.com/@mprantox41/linux-networking-commands-619b81da7d77"><img src="https://img.shields.io/badge/-Linux%20Networking%20Commands-61DAFB?&style=for-the-badge" /></a>
+        <a href="https://medium.com/@mprantox41/sublist3r-install-and-c960b7a41536"><img src="https://img.shields.io/badge/-Sublist3r-3498DB?&style=for-the-badge" /></a>
+        <img src="https://img.shields.io/badge/-Greatness%20Incoming-4CAF50?&style=for-the-badge" />
+         
           
      
 </div>
