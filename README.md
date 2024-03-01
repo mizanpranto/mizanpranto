@@ -87,13 +87,13 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 
 <div>
 
-  <img src="https://img.shields.io/badge/-Blue%20Team%20Junior%20Analyst-3498DB?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-BTJA%20Certificate-3498DB?&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
--->
+
     
 ## Projects
 - <a href="https://www.udemy.com/course/kali-linux-master-class-beginner-to-advanced/?couponCode=ST22FS22724">UDEMY- Kali Linux For Ethical Hacking and Vulnerability assessment </a>
