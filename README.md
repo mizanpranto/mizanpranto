@@ -86,8 +86,8 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 ## Certifications
 
 <div>
-<!--
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-Blue%20Team%20Junior%20Analyst-3498DB?&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
