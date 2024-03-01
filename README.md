@@ -31,6 +31,14 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 <div>
 
    <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+     <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+      <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+       <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+        <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+         <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+          <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+          
      
 </div>
 
@@ -47,16 +55,7 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-SSH-000000?&style=for-the-badge&logo=ssh&logoColor=white" /></a>
 <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-NFS-0078D6?&style=for-the-badge&logo=nfs&logoColor=white" /></a>
 <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-SMB-0078D6?&style=for-the-badge&logo=samba&logoColor=white" /></a>
-    <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+   
     
     
 </div>
