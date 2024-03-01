@@ -14,7 +14,7 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 ## Skills
 
 
-| Skill                                         | Associated With         |
+| Skills                                         | Associated With         |
 |-----------------------------------------------|----------------------------|
 | Cyber Security         | <a href="https://google.com">Course </a>|
 | Network Analysis | <a href="https://google.com">Course</a>|
@@ -41,6 +41,18 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
       <img src=" https://img.shields.io/badge/-OSNIT-FF5733?&style=for-the-badge" />
      
 </div>
+
+## Ethical Hacking [Tools & Writeup]
+
+<div>
+<!--
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+-->
 
 
 ## Certifications
