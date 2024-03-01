@@ -16,7 +16,7 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 
 | Licenses & certifications                   | Associated With         |
 |-----------------------------------------------|----------------------------|
-| Certified CyberSecurity Technician(C|CT) [Expected 04/24] | EC-Council|
+| Certified CyberSecurity Technician(CCT) [Expected 04/24] | EC-Council|
 | Blue Team Junior Analyst | Security Blue Team |
 | Practical Ethical Hacking - The Complete Course        | TCM Security|
 | Advanced Penetration TestingAdvanced Penetration Testing     | Cybrary |
