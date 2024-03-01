@@ -99,6 +99,7 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 - <a href="https://www.udemy.com/course/kali-linux-master-class-beginner-to-advanced/?couponCode=ST22FS22724">UDEMY- Kali Linux For Ethical Hacking and Vulnerability assessment </a>
 - Manual Web Exploration (Running Project) 
 
+## 📈 Building something special! This GitHub readme is a dynamic work in motion, with the final touches in progress. Completion is on the horizon – appreciate your patience!
 
 <!--
 **mizanpranto/mizanpranto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
