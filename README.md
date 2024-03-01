@@ -62,6 +62,27 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 
 
 
+
+## TryHackMe Solve
+
+
+
+<div>
+
+   <a href="https://medium.com/@mprantox41/tryhackme-hydra-walkthrough-d1568ae6be37"><img src="https://img.shields.io/badge/-TryHackMe%20Hydra%20Writeup-3498DB?&style=for-the-badge" /></a>
+    <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+     <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+      <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+       <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+        <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+         <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+          <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+          
+     
+</div>
+
+
+
 ## Certifications
 
 <div>
