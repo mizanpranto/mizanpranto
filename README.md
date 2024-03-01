@@ -14,16 +14,15 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 ## Skills
 
 
-| Skills                                         | Associated With         |
+| Licenses & certifications                   | Associated With         |
 |-----------------------------------------------|----------------------------|
-| Cyber Security 
-ethical hacking | <a href="https://google.com">Course </a>|
-| Network Analysis | <a href="https://google.com">Course</a>|
-| Ethical Hacking         | Course|
-| Penetration Testing      | Course|
-| Vulnerability Management                | Course|
-| Linux | Course |
-| OSNIT | BJTA |
+| Certified CyberSecurity Technician(C|CT) [Expected 04/24] | EC-Council|
+| Blue Team Junior Analyst | Security Blue Team |
+| Practical Ethical Hacking - The Complete Course        | TCM Security|
+| Advanced Penetration TestingAdvanced Penetration Testing     | Cybrary |
+| web Application Penetration testing                | Cybrary|
+| Penetration Testing and Ethical Hacking | Cybrary |
+| Ethical Hacking Essentials (EHE) | EC-Council |
 
 ## Tools
 
