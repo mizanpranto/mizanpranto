@@ -82,7 +82,7 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 </div>
 
 
-
+<!--
 ## Certifications
 
 <div>
@@ -93,7 +93,7 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
+-->
     
 ## Projects
 - <a href="https://www.udemy.com/course/kali-linux-master-class-beginner-to-advanced/?couponCode=ST22FS22724">UDEMY- Kali Linux For Ethical Hacking and Vulnerability assessment </a>
