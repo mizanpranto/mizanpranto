@@ -23,7 +23,7 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 | web Application Penetration testing                | Cybrary|
 | Penetration Testing and Ethical Hacking | Cybrary |
 | Ethical Hacking Essentials (EHE) | EC-Council |
-
+<!--
 ## Tools
 
 
@@ -41,7 +41,7 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
           
      
 </div>
-
+-->
 ## Information gathering [Tools & Details]
 
 ( Check the links for details, continuously uploading )
