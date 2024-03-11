@@ -85,14 +85,13 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 <div>
 
  <img src="https://img.shields.io/badge/-Nessus-0484d8?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-OpenVAS-007B74?&style=for-the-badge" />
-   <img src="https://img.shields.io/badge/-Nikto-336791?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-WPScan-E44D26?&style=for-the-badge" />
-     <img src="https://img.shields.io/badge/-Wapiti%20Scanner-3498DB?&style=for-the-badge" />
-     <img src="https://img.shields.io/badge/-SQLmate-3498DB?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-OpenVAS-007B74?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Nikto-336791?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-WPScan-E44D26?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Wapiti%20Scanner-3498DB?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-SQLmate-3498DB?&style=for-the-badge" />
 
-  
-    
+   
     
 </div>
 
