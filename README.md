@@ -64,7 +64,7 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 ## OSNIT
 
 ( Check the links for details, continuously uploading )
-
+</div>
 
   <img src="https://img.shields.io/badge/-Recon--ng-3498DB?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-SpiderFoot-3498DB?&style=for-the-badge" />
@@ -83,8 +83,7 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 
 ( Check the links for details, continuously uploading )
 <div>
-- Nessus
-- OpenVAS
+
  <img src="https://img.shields.io/badge/-Nessus-0484d8?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-OpenVAS-007B74?&style=for-the-badge" />
    <img src="https://img.shields.io/badge/-Nikto-336791?&style=for-the-badge" />
