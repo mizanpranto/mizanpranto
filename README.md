@@ -42,6 +42,11 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
      
 </div>
 -->
+## Operating System
+
+<a href="https://github.com/mizanpranto/Linux">Linux</a>
+
+
 ## Information gathering [Tools & Details]
 
 ( Check the links for details, continuously uploading )
@@ -135,23 +140,7 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 
 ## 📈 Building something special! This GitHub readme is a dynamic work in motion, with the final touches in progress. Completion is on the horizon – appreciate your patience!
 
-<details>
-  <summary>Section 1</summary>
-  
-  Content for section 1 goes here.
-</details>
 
-<details>
-  <summary>Section 2</summary>
-  
-  Content for section 2 goes here.
-</details>
-
-<details>
-  <summary>Section 3</summary>
-  
-  Content for section 3 goes here.
-</details>
 
 <!--
 **mizanpranto/mizanpranto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
