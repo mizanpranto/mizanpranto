@@ -44,7 +44,8 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 -->
 ## Operating System
 
-<a href="https://github.com/mizanpranto/Linux">Linux</a>
+<a href="https://github.com/mizanpranto/Linux">Linux</a><br>
+<a href="https://github.com/mizanpranto/Windows">Windows</a>
 
 
 ## Information gathering [Tools & Details]
