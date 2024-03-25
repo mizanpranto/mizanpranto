@@ -51,15 +51,15 @@ Cyber Security student seeking full time job in Cyber Security | BTJA | Network 
 
 ( Check the links for details, continuously uploading )
 <div>
-<a href="https://github.com/mizanpranto/DNS-Enumration"><img src="https://img.shields.io/badge/-DNS%20Enumeration-007BFF?&style=for-the-badge" /></a>
-<a href="https://github.com/mizanpranto/Search-Engine"><img src="https://img.shields.io/badge/-Search%20Engines-4285F4?&style=for-the-badge" /></a>
-<a href="https://github.com/mizanpranto/Open-Source_code"><img src="https://img.shields.io/badge/-Open%20Source%20Code-34A853?&style=for-the-badge" /></a>
-<a href="https://github.com/mizanpranto/Email-Harvasting"><img src="https://img.shields.io/badge/-Email%20Harvesting-FF5733?&style=for-the-badge" /></a>
-<a href="https://github.com/mizanpranto/Nmap"><img src="https://img.shields.io/badge/-Nmap-4B8BBE?&style=for-the-badge&logo=nmap&logoColor=white" /></a>
-<a href="https://github.com/mizanpranto/SMTP"><img src="https://img.shields.io/badge/-SMTP-4CAF50?&style=for-the-badge" /></a>
-<a href="https://github.com/mizanpranto/SSH"><img src="https://img.shields.io/badge/-SSH-000000?&style=for-the-badge&logo=ssh&logoColor=white" /></a>
-<a href="https://github.com/mizanpranto/NFS"><img src="https://img.shields.io/badge/-NFS-0078D6?&style=for-the-badge&logo=nfs&logoColor=white" /></a>
-<a href="https://github.com/mizanpranto/SMD"><img src="https://img.shields.io/badge/-SMB-0078D6?&style=for-the-badge&logo=samba&logoColor=white" /></a>
+<a href="https://github.com/mizanpranto/DNS-Enumration">DNS Enumration</a>
+<a href="https://github.com/mizanpranto/Search-Engine">Search Engine</a>
+<a href="https://github.com/mizanpranto/Open-Source_code">Open Source Code</a>
+<a href="https://github.com/mizanpranto/Email-Harvasting">Email-Harvasting</a>
+<a href="https://github.com/mizanpranto/Nmap">Nmap</a>
+<a href="https://github.com/mizanpranto/SMTP">SMTP</a>
+<a href="https://github.com/mizanpranto/SSH">SSH</a>
+<a href="https://github.com/mizanpranto/NFS">NFS></a>
+<a href="https://github.com/mizanpranto/SMD">SMD></a>
    
     
     
