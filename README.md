@@ -2,11 +2,7 @@
 <a href="https://www.linkedin.com/in/mrpranto1997/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@mprantox41"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
-
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-
+Cybersecurity professional proficient in Python, SQL, and Linux, with specialized expertise in information assurance, ethical hacking, and vulnerability analysis. Skilled in network and information security management, backed by strong communication skills and a related Bachelor's degree. 
 
 Cyber Security student seeking full time job in Cyber Security | BTJA | Network Security | Penetration Testing | Ethical Hacker 
 
