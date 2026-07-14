@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+Cybersecurity+Consultant;AWS+Certified+Solutions+Architect;Cloud+Security+%7C+IAM+%7C+S3+%7C+CIS;I+Find+What+Auditors+Miss" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=CloudSecurity+%26+Cybersecurity+Consultant;AWS+Certified+Solutions+Architect;Cloud+Security+%7C+IAM+%7C+S3+%7C+CIS;I+Find+What+Auditors+Miss" alt="Typing SVG" />
 
 <br>
 
