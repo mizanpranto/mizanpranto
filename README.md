@@ -1,13 +1,12 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cloud+Security+Consultant;AWS+Misconfiguration+Hunter;IAM+%26+S3+Exposure+Specialist;I+Find+What+Auditors+Miss" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+Cybersecurity+Consultant;AWS+Certified+Solutions+Architect;Cloud+Security+%7C+IAM+%7C+S3+%7C+CIS;I+Find+What+Auditors+Miss" alt="Typing SVG" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mrpranto1997-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrpranto1997/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrpranto1997/)
 [![Available](https://img.shields.io/badge/Status-Available_for_Freelance-2ECC71?style=for-the-badge)](https://www.linkedin.com/in/mrpranto1997/)
-[![AWS](https://img.shields.io/badge/Focus-AWS_Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 
 </div>
 
@@ -15,20 +14,26 @@
 
 ## 👋 About Me
 
-I help startups and small businesses find and fix AWS misconfigurations **before** attackers — or auditors — do. Every tool I ship comes with a working scanner, a no-credentials demo mode, and a client-ready PDF report, so you can see real output before you hire me.
+I'm an **AI & Cybersecurity Consultant** currently advising **HSA Group** on security architecture, threat modeling, and AI-driven vulnerability analysis. Previously, I led enterprise-wide cybersecurity strategy as **Cybersecurity Lead & Program Director** at SMP CyberSecurity Ltd., where I ran ISO/IEC 27001-aligned governance programs and organized a national security competition with 150+ teams.
+
+My focus right now is **AWS cloud security** — S3 exposure, IAM privilege escalation, and CIS Benchmark compliance — backed by hands-on tools I built and use in real assessments, not just theory.
+
+📄 Full résumé available on request · 🎓 **AWS Certified Solutions Architect – Associate** (passed July 2026)
 
 <br>
 
-## ⚙️ Tech & Tools
+## 🏆 Certifications
 
 <div align="left">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-Privilege_Escalation_Analysis-D32F2F?style=flat-square&logo=amazoniam&logoColor=white)
-![S3](https://img.shields.io/badge/S3-Exposure_Scanning-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![CIS](https://img.shields.io/badge/CIS-Benchmark_Compliance-4B32C3?style=flat-square)
-![Boto3](https://img.shields.io/badge/boto3-AWS_SDK-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Security](https://img.shields.io/badge/AWS-Security_Specialty_(Training_Complete)-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001-Lead_Auditor-4B32C3?style=flat-square)
+![SSCP](https://img.shields.io/badge/ISC2-SSCP-004879?style=flat-square)
+![CEH](https://img.shields.io/badge/CISCO-CEH-1BA0D7?style=flat-square)
+![CCSP](https://img.shields.io/badge/ISC2-CCSP_(In_Progress)-lightgrey?style=flat-square)
+![CISSP](https://img.shields.io/badge/ISC2-CISSP_(Training_Complete)-lightgrey?style=flat-square)
+![Network+](https://img.shields.io/badge/CompTIA-Network%2B-C8202F?style=flat-square&logo=comptia&logoColor=white)
 
 </div>
 
@@ -41,7 +46,7 @@ I help startups and small businesses find and fix AWS misconfigurations **before
 <td width="50%" valign="top">
 
 ### 🔍 S3 Exposure Scanner
-Finds publicly exposed S3 buckets and misconfigured ACLs before they leak customer data.
+Audits public access block settings, encryption, logging, MFA delete, and versioning — maps findings to **CIS, PCI-DSS, GDPR, ISO/IEC 27001, and NIST**.
 
 `Python` `boto3` · **Demo mode included — no AWS creds needed**
 
@@ -73,7 +78,7 @@ Maps 12 known IAM privilege-escalation attack paths in your account.
 <td width="50%" valign="top">
 
 ### 📄 Security Assessment Report Generator
-Turns raw scan output into a polished, client-ready PDF report.
+Turns raw scan output into a polished, client-ready PDF report — compliance-mapped, not just raw JSON.
 
 `Python` `PDF Reporting` · **Sample report included**
 
@@ -85,11 +90,20 @@ Turns raw scan output into a polished, client-ready PDF report.
 
 <br>
 
+## 🔬 Research
+
+**"Security Vulnerabilities in GPT-Generated Python Code"** — ongoing independent study analyzing CWE prevalence in AI-generated code across real-world GitHub projects, using Bandit static analysis + MITRE CWE classification. Targeting publication at ASE / SANER / ICSE / ACM TOSEM.
+
+**Co-author**, *Seismic Impedance Inversion Based on Improved Cycle-WGAN* — Journal of Physics: Conference Series, CCICS-2024.
+
+<br>
+
 ## 💼 Why Work With Me
 
-- 🎯 **Not a generalist checklist** — focused specifically on AWS: S3, IAM, and CIS compliance
-- 📊 **You see output before you pay** — every tool has a demo mode
-- 📝 **Deliverables clients understand** — polished reports, not raw JSON dumps
+- 🎯 **Real consulting experience** — currently advising a client organization on security architecture, not just building side projects
+- 📊 **You see output before you pay** — every tool has a demo mode with a sample report
+- 🧭 **Governance-literate** — ISO/IEC 27001 Lead Auditor background means findings map cleanly to compliance frameworks clients already care about
+- 🔐 **AWS-certified** — Solutions Architect Associate, Security Specialty training complete
 
 <br>
 
