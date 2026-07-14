@@ -14,11 +14,32 @@
 
 ## 👋 About Me
 
-I'm an **AI & Cybersecurity Consultant** currently advising **HSA Group** on security architecture, threat modeling, and AI-driven vulnerability analysis. Previously, I led enterprise-wide cybersecurity strategy as **Cybersecurity Lead & Program Director** at SMP CyberSecurity Ltd., where I ran ISO/IEC 27001-aligned governance programs and organized a national security competition with 150+ teams.
+I'm an **AI & Cybersecurity Consultant** currently working with **HSA Group**, where my responsibilities include applying **cloud security controls and best practices** across client engagements — alongside security architecture review, threat modeling, and AI-driven vulnerability analysis. Previously, I led enterprise-wide cybersecurity strategy as **Cybersecurity Lead & Program Director** at SMP CyberSecurity Ltd., running ISO/IEC 27001-aligned governance programs.
 
-My focus right now is **AWS cloud security** — S3 exposure, IAM privilege escalation, and CIS Benchmark compliance — backed by hands-on tools I built and use in real assessments, not just theory.
+Outside client work, I build and maintain open-source **AWS security tooling** — S3 exposure scanning, IAM privilege-escalation mapping, and CIS Benchmark auditing — to keep my hands-on skills sharp and to give prospective clients something concrete to evaluate before they hire me.
 
 📄 Full résumé available on request · 🎓 **AWS Certified Solutions Architect – Associate** (passed July 2026)
+
+<br>
+
+## 🏢 Where I've Applied This
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔹 HSA Group** — *AI & Cybersecurity Consultant (Current)*
+Applying cloud security controls and best practices in live client engagements; producing risk reports and remediation guidance aligned with ISO/IEC 27001 and NIST CSF.
+
+</td>
+<td width="50%" valign="top">
+
+**🔹 SMP CyberSecurity Ltd.** — *Cybersecurity Lead & Program Director*
+Led IT governance framework design and security policy implementation for government and private-sector clients.
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -39,7 +60,7 @@ My focus right now is **AWS cloud security** — S3 exposure, IAM privilege esca
 
 <br>
 
-## 🛡️ Featured Security Tools
+## 🛡️ Open-Source Security Tools
 
 <table>
 <tr>
@@ -68,7 +89,7 @@ Automated checks against 50 controls from the AWS CIS Foundations Benchmark.
 <td width="50%" valign="top">
 
 ### 🚨 IAM Privilege Escalation Detector
-Maps 12 known IAM privilege-escalation attack paths in your account.
+Maps 12 known IAM privilege-escalation attack paths in an AWS account.
 
 `Python` `IAM` `Attack Paths` · **Demo mode included**
 
@@ -100,19 +121,10 @@ Turns raw scan output into a polished, client-ready PDF report — compliance-ma
 
 ## 💼 Why Work With Me
 
-- 🎯 **Real consulting experience** — currently advising a client organization on security architecture, not just building side projects
+- 🔐 **Applying AWS security controls in live client work right now** — not just lab exercises
+- 🎯 **Governance-literate** — ISO/IEC 27001 Lead Auditor background means findings map cleanly to frameworks clients already report against
 - 📊 **You see output before you pay** — every tool has a demo mode with a sample report
-- 🧭 **Governance-literate** — ISO/IEC 27001 Lead Auditor background means findings map cleanly to compliance frameworks clients already care about
-- 🔐 **AWS-certified** — Solutions Architect Associate, Security Specialty training complete
-
-<br>
-
-## 📈 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mizanpranto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mizanpranto&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</div>
+- 🎓 **AWS-certified** — Solutions Architect Associate, Security Specialty training complete
 
 <br>
 
