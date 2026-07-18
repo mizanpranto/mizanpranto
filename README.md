@@ -18,7 +18,7 @@ I'm an **AI & Cybersecurity Consultant** currently working with **HSA Group**, w
 
 Outside client work, I build and maintain open-source **AWS security tooling** — S3 exposure scanning, IAM privilege-escalation mapping, and CIS Benchmark auditing — to keep my hands-on skills sharp and to give prospective clients something concrete to evaluate before they hire me.
 
-📄 Full résumé available on request · 🎓 **AWS Certified Solutions Architect – Associate** (passed July 2026)
+📄 Full résumé available on request · 🎓 **AWS Certified Solutions Architect – Associate** 
 
 <br>
 
