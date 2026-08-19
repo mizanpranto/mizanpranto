@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Ethical+Hacker+%E2%86%92+Cybersecurity+Consultant;AI+%26+Cybersecurity+Consultant+%40+HSA+Group;Pentest+Team+Lead;AWS+SAA+%7C+SSCP+%7C+ISO+27001+Lead+Auditor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Ethical+Hacker+%E2%86%92+Cybersecurity+Consultant;AI+%26+Cybersecurity+Consultant+%40+HSA+Group;AWS+SAA+%7C+SSCP+%7C+ISO+27001+Lead+Auditor" alt="Typing SVG" />
 
 <br>
 
@@ -78,22 +78,46 @@ Scans AWS S3 buckets for public access, missing encryption, logging gaps, and ve
 </td>
 <td width="50%" valign="top">
 
-### ✅ CIS Gap Analysis
-Checks environments against CIS Benchmark controls and reports gaps.
+### ✅ AWS CIS Benchmark Checker
+Automated checks against AWS CIS Foundations Benchmark controls.
 
-`HTML`
+`Python`
 
-[**→ View Repo**](https://github.com/mizanpranto/cis-gap-analysis)
+[**→ View Repo**](https://github.com/mizanpranto/aws-cis-benchmark-checker)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ CyberGovernance
-Tooling and resources for IT governance and security policy alignment (ISO/IEC 27001-oriented).
+### 🚨 IAM Privilege Escalation Detector
+Maps known IAM privilege-escalation attack paths in an AWS account.
 
-[**→ View Repo**](https://github.com/mizanpranto/CyberGovernance)
+`Python`
+
+[**→ View Repo**](https://github.com/mizanpranto/iam-privilege-escalation-detector)
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 AWS Security Assessment Report Template
+Turns raw scan output into a structured, client-ready security assessment report.
+
+`Python`
+
+[**→ View Repo**](https://github.com/mizanpranto/aws-security-assessment-report-template)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ CIS Gap Analysis
+Checks environments against CIS Benchmark controls and reports gaps.
+
+`HTML`
+
+[**→ View Repo**](https://github.com/mizanpranto/cis-gap-analysis)
 
 </td>
 <td width="50%" valign="top">
