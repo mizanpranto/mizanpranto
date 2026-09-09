@@ -20,7 +20,6 @@ Today I'm an **AI & Cybersecurity Consultant** at **HSA Group**, leading a penet
 
 Outside client work, I run an independent research pipeline studying **security vulnerabilities in GPT-generated code** — dataset construction, static analysis, and CWE classification, working toward publication.
 
-📍 Mymensingh, Bangladesh · 🎓 AWS SAA-C03 · Ethical Hacker (Cisco Networking Academy) · SSCP · ISO/IEC 27001 Lead Auditor
 
 <br>
 
