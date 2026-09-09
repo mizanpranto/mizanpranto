@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Ethical+Hacker+%E2%86%92+Cybersecurity+Consultant;AI+%26+Cybersecurity+Consultant+%40+HSA+Group;AWS+SAA+%7C+SSCP+%7C+ISO+27001+Lead+Auditor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Ethical+Hacker+%E2%86%92+Cybersecurity+Consultant;Cybersecurity+Consultant+%40+Confidential" alt="Typing SVG" />
 
 <br>
 
