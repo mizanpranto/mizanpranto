@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Ethical+Hacker+%E2%86%92+CyberSecurity+Consultant)](https://git.io/typing-svg)
+## Hey, I am MIZANUR RAHMAN PRANTO [ M R Pranto ]
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrpranto1997/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mprantox41@gmail.com)
